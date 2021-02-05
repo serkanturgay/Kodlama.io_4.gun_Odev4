@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NalVudNaGfEgTA5bTFQv3uKwGmqhYgZYuYsqC0Dkk3hrnpjaXssrCOGp5DHaWYJSfIDrKYT64CWNnq/lc8WHyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hakan\\source\\repos\\Kodlama.io_4.gun_Odev4\\Kodlama.io_4.gun_Odev4\\Kodlama.io_4.gun_Odev4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hakan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hakan\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\hakan\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\hakan\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\hakan\source\repos\Kodlama.io_4.gun_Odev4\Kodlama.io_4.gun_Odev4\bin\Debug\netcoreapp3.1\Kodlama.io_4.gun_Odev4.exe
+C:\Users\hakan\source\repos\Kodlama.io_4.gun_Odev4\Kodlama.io_4.gun_Odev4\obj\Debug\netcoreapp3.1\Kodlama.io_4.gun_Odev4.csprojAssemblyReference.cache
+C:\Users\hakan\source\repos\Kodlama.io_4.gun_Odev4\Kodlama.io_4.gun_Odev4\obj\Debug\netcoreapp3.1\Kodlama.io_4.gun_Odev4.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_4.gun_Odev4\Kodlama.io_4.gun_Odev4\obj\Debug\netcoreapp3.1\Kodlama.io_4.gun_Odev4.AssemblyInfo.cs
+C:\Users\hakan\source\repos\Kodlama.io_4.gun_Odev4\Kodlama.io_4.gun_Odev4\bin\Debug\netcoreapp3.1\Kodlama.io_4.gun_Odev4.deps.json
+C:\Users\hakan\source\repos\Kodlama.io_4.gun_Odev4\Kodlama.io_4.gun_Odev4\bin\Debug\netcoreapp3.1\Kodlama.io_4.gun_Odev4.runtimeconfig.json
+C:\Users\hakan\source\repos\Kodlama.io_4.gun_Odev4\Kodlama.io_4.gun_Odev4\bin\Debug\netcoreapp3.1\Kodlama.io_4.gun_Odev4.runtimeconfig.dev.json
+C:\Users\hakan\source\repos\Kodlama.io_4.gun_Odev4\Kodlama.io_4.gun_Odev4\bin\Debug\netcoreapp3.1\Kodlama.io_4.gun_Odev4.dll
+C:\Users\hakan\source\repos\Kodlama.io_4.gun_Odev4\Kodlama.io_4.gun_Odev4\bin\Debug\netcoreapp3.1\Kodlama.io_4.gun_Odev4.pdb
+C:\Users\hakan\source\repos\Kodlama.io_4.gun_Odev4\Kodlama.io_4.gun_Odev4\obj\Debug\netcoreapp3.1\Kodlama.io_4.gun_Odev4.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_4.gun_Odev4\Kodlama.io_4.gun_Odev4\obj\Debug\netcoreapp3.1\Kodlama.io_4.gun_Odev4.dll
+C:\Users\hakan\source\repos\Kodlama.io_4.gun_Odev4\Kodlama.io_4.gun_Odev4\obj\Debug\netcoreapp3.1\Kodlama.io_4.gun_Odev4.pdb
+C:\Users\hakan\source\repos\Kodlama.io_4.gun_Odev4\Kodlama.io_4.gun_Odev4\obj\Debug\netcoreapp3.1\Kodlama.io_4.gun_Odev4.genruntimeconfig.cache
